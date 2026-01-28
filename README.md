@@ -1,0 +1,2 @@
+Python-based solution for solving and visualizing large matrix problems, up to 10×10 in size. It’s designed as a curriculum project to demonstrate both numerical computation and graphical analysis (including plotting graphs and heatmaps) of matrices in Python.
+<img width="1440" height="900" alt="Screenshot 2025-11-21 at 2 22 30 PM" src="https://github.com/user-attachments/assets/65417129-8bd2-4d58-82f0-10d143a35cb6" />
